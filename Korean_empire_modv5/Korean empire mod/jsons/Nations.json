@@ -1,0 +1,29 @@
+[
+	{
+		//nations
+		"name": "Korea empire",
+		"leaderName": "the emperor of Lee Kang",
+		"adjective": ["Korean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Korea empire was founded in 1897 by Gang mu emperor. before Korea empire, Joseon was in this land. amd our nation has long history of 5000 years. We were almost destroyed. but we are alive and are never destroyed again!! we changed changed so we could be here.",
+		"startIntroPart2": "do you know Korean empire? our first emperor is gang mu emperor. he is very smart. so we alive. we wanted to become him.",
+		
+		"declaringWar": "My army always stay in your country and your peoples keeping dying.",
+		"attacked": "you are foolish. because we always win.",
+		"defeated": "ha ha we end? no we are never disappeared",
+		"introduction": "Are you real or a phantom?",
+		
+		"neutralHello": "hello our empire very welcome.",
+		"hateHello": "what you happened?...",
+		
+		"tradeRequest": "do you want to deal? here our suggestions",
+				
+		"outerColor": [7,174,255],
+		"innerColor": [255,81,45],
+		"unique": "SCHOLARS_OF_THE_JADE_HALL",
+		"cities": ["Hansung","Dongnae-gu","Incheon","Pyongyang","Jeonju","Chungju","Gyeongju","Suwon","Cheonan",
+			"Naju","gaeseong","gongju","Guangmu","Dea-han","Wonsan","Asan","Haeju","Dea-gu","Ganghwado"]
+	},
+]

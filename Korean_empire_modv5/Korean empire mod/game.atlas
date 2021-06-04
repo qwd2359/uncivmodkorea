@@ -1,0 +1,54 @@
+game.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Korea empire
+  rotate: false
+  xy: 187, 0
+  size: 92, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/byeolgigun
+  rotate: false
+  xy: 0, 0
+  size: 75, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/YangMuho
+rotate: false
+  xy: 94, 0
+  size: 100, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gumabag
+rotate: false
+  xy: 275, 0
+  size: 116, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/singijeon
+rotate: false
+  xy: 389, 0
+  size: 105, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rightysoldier
+rotate: false
+  xy: 497, 0
+  size: 120, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Turtleships
+rotate: false
+  xy: 620, 0
+  size: 80, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
